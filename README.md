@@ -1,6 +1,6 @@
 # guessing_game
 
-A new Flutter project.
+Projeto de jogo de adivinhação com Dart e Flutter
 
 ## Getting Started
 
