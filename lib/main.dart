@@ -7,11 +7,13 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
+  
+  String a1 = 'click';
 
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Teste'',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
